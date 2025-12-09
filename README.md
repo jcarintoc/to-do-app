@@ -5,7 +5,7 @@ A full-stack todo application with authentication built with React, TypeScript, 
 ## Tech Stack
 
 **Frontend:**
-- React 18 + TypeScript
+- React 19 + TypeScript
 - Vite
 - Tailwind CSS v4
 - shadcn/ui components
